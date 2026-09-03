@@ -1,0 +1,8 @@
+{
+  "name": "ladwannou-moncash-backend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@moncashconnect/sdk": "^1.0.0"
+  }
+}
